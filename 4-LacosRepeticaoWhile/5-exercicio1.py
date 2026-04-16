@@ -10,4 +10,4 @@ while i != 0:
     contador += i
     if i == 0:
         break
-print("A soma dos números digitados é: ",contador) d
+print("A soma dos números digitados é: ",contador)
