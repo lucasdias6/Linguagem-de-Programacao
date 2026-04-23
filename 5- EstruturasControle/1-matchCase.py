@@ -1,0 +1,29 @@
+mes = int(input("Digite o número de um mês de 1 a 12: "))
+
+match mes:
+    case 1:
+        print("Mês: Janeiro")
+    case 2:
+        print("Mês: Fevereiro")
+    case 3:
+        print("Mês: Março")
+    case 4:
+        print("Mês: Abril")
+    case 5:
+        print("Mês: Maio")
+    case 6:
+        print("Mês: Junho")
+    case 7:
+        print("Mês: Julho")
+    case 8:
+        print("Mês: Agosto")
+    case 9:
+        print("Mês: Setembro")
+    case 10:
+        print("Mês: Outubro")
+    case 11:
+        print("Mês: Novembro")
+    case 12:
+        print("Mês: Dezembro")
+    case _:
+        print("Número inválido.")
