@@ -9,5 +9,5 @@ carros = [
     "uno"
     ]
 
-for Ω in carros:
-    print(Ω)
+for x in carros:
+    print(x)
