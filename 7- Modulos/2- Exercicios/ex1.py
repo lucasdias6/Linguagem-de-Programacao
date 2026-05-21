@@ -1,0 +1,16 @@
+# Crie um programa em Python que use o módulo random para sortear, 
+# de forma automatizada e justa, 
+# um nome dentro de uma lista com cinco alunos da turma, 
+# exibindo o resultado final na tela para definir quem começará a apresentação do trabalho.
+
+import random
+
+alunos = [
+    "Juan",
+    "Bernardo",
+    "Fernanda",
+    "Bruna",
+    "Isabela"
+]
+
+print(alunos)
