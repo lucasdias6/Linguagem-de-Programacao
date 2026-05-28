@@ -13,4 +13,4 @@ alunos = [
     "Isabela"
 ]
 
-print(alunos)
+print(alunos[random.randint(0,4)])
