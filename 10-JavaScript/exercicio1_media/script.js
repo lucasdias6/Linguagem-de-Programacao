@@ -12,8 +12,8 @@ const media = (nota1 + nota2 + nota3) / 3
 console.log("=====================================");
 console.log('RELATÓRIO ESCOLAR DE: ${nomeAluno}');
 console.log("=====================================");
-console.log('Notas: ${nota1} | ${nota2} | ${nota3}');
-console.log('Média Final: ${media.toFixed(2)}');
+console.log(`Notas: ${nota1} | ${nota2} | ${nota3}`);
+console.log(`Média Final: ${media.toFixed(2)}`);
 
 // Tomada de decisão ('Hoisting')
 if (media >= 7.0) {
