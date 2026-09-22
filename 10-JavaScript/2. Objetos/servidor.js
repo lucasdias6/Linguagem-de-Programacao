@@ -26,7 +26,5 @@ const servidorCentral = {
 
 };
 
-
-
 servidorCentral.verificarSistema()
 servidorCentral.imprimirRelatorio()
